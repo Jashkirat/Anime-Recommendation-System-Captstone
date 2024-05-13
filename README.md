@@ -125,7 +125,7 @@ We've implemented a function called `clean_text` to tidy up our dataset. This fu
 -  Converting text to lowercase.
 -  Eliminate non-alphanumeric characters.
 
-![Clean Data](Screentshots/Data-Clean.png)
+![Clean Data](Screentshots/Data_Clean.png)
 
 
 ## Next Steps
